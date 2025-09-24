@@ -47,17 +47,13 @@ Execute the program using runserver command.
                 <th bgcolor="yellow">8-10</th>
                 <td>FWAD</td>
                 <td>FWAD</td>
-                <td>ENG</td>
-                <td>PY</td>
                 <td>FREE</td>
+                <td>C</td>
+                <td>FWAD</td>
             </tr>
             <tr align="center">
                 <th bgcolor="yellow">10-12</th>
-                <td>PY</td>
-                <td>ENG</td>
-                <td>ENG</td>
-                <td>PY</td>
-                <td>ENG</td>
+                <td>
             </tr>
             <tr align="center">
                 <th bgcolor="yellow">
@@ -72,16 +68,16 @@ Execute the program using runserver command.
                 <td>FWAD</td>
                 <td>FWAD</td>
                 <td>MENTOR-MEET</td>
-                <td>FREE</td>
+                <td>C</td>
                 <td>FREE</td>
             </tr>
             <tr align="center">
                 <th bgcolor="yellow">3-5</th>
+                <td>C</td>
+                <td>C</td>
                 <td>FREE</td>
                 <td>FREE</td>
-                <td>PY</td>
-                <td>FREE</td>
-                <td>FREE</td>
+                <td>C</td>
             </tr>
         </table>
         <br>
